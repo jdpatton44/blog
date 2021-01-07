@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: jdpatton44/blog
 
 media_folder: static/assets
 public_folder: assets
